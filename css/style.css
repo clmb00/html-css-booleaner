@@ -16,12 +16,14 @@ header{
 }
 /* --------- */
 
-/* TITOLO */
-.titolo{
+/* STILI DI OGNI SEZIONE NEL MAIN */
+section{
   margin-top: 20px;
   margin-left: 10px;
 }
+/* STILI DI OGNI SEZIONE NEL MAIN */
 
+/* TITOLO */
 h1{
   font-size: 56px;
 }
@@ -36,5 +38,15 @@ h1{
 
 .autore span{
   color: rgb(32, 169, 229);
+}
+/* --------- */
+
+/* IMMAGINI INIZIALI */
+.immagini-copertina img{
+  height: 500px;
+}
+
+.descrizione-foto{
+  font-size: 14px;
 }
 /* --------- */
