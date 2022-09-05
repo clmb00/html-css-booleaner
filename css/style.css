@@ -2,9 +2,10 @@
   margin: 0;
 }
 
+/* HEADER */
 header{
   height: 175px;
-  background-color: rgb(55, 148, 210);
+  background-color: rgb(78, 160, 255);
   background-image: url("../img/pattern.png");
 }
 
@@ -13,3 +14,27 @@ header{
   margin-left: 10px;
   margin-top: 80px;
 }
+/* --------- */
+
+/* TITOLO */
+.titolo{
+  margin-top: 20px;
+  margin-left: 10px;
+}
+
+h1{
+  font-size: 56px;
+}
+
+.titolo span{
+  color: gray;
+}
+
+.autore{
+  font-size: 18px;
+}
+
+.autore span{
+  color: rgb(32, 169, 229);
+}
+/* --------- */
