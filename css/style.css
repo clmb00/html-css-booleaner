@@ -28,7 +28,7 @@ h1{
   font-size: 56px;
 }
 
-.titolo span{
+.dati-articolo span{
   color: gray;
 }
 
@@ -52,3 +52,37 @@ h1{
 /* --------- */
 
 /* CORPO DEL TESTO */
+p{
+  margin-bottom: 25px;
+}
+
+ul{
+  padding-left: 12px;
+}
+
+table{
+  margin-bottom: 20px;
+}
+
+thead{
+  background-color: rgb(32, 169, 229);
+  color: white;
+  text-align: left;
+}
+
+tbody{
+  background-color: rgb(177, 229, 242);
+}
+
+.opposite-row{
+  background-color: white;
+}
+
+#first-col{
+  width: 25%;
+}
+
+#second-col{
+  width: 25%;
+}
+/* --------- */
