@@ -78,11 +78,7 @@ tbody{
   background-color: white;
 }
 
-#first-col{
-  width: 25%;
-}
-
-#second-col{
+.col-width{
   width: 25%;
 }
 /* --------- */
