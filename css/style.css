@@ -52,7 +52,7 @@ h1{
 /* --------- */
 
 /* CORPO DEL TESTO */
-p{
+.main-text p,ul{
   margin-bottom: 25px;
 }
 
